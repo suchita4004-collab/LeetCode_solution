@@ -1,0 +1,61 @@
+# 40. Combination Sum II
+
+## Problem
+
+Given a collection of candidate numbers `candidates` and a target number `target`, find all unique combinations where the candidate numbers add up to the target.
+
+Each number in `candidates` may be used only once.
+
+The solution set must not contain duplicate combinations.
+
+## Example 1
+
+Input:
+
+`candidates = [10,1,2,7,6,1,5]`
+
+`target = 8`
+
+Output:
+
+`[[1,1,6],[1,2,5],[1,7],[2,6]]`
+
+## Example 2
+
+Input:
+
+`candidates = [2,5,2,1,2]`
+
+`target = 5`
+
+Output:
+
+`[[1,2,2],[5]]`
+
+## Approach
+
+I use backtracking to generate all possible combinations.
+
+First, I sort the candidates. Sorting helps in two ways:
+
+1. It makes it easy to stop when the current number is greater than the remaining target.
+2. It helps skip duplicate numbers at the same recursion level.
+
+For every candidate, I add it to the current combination and recursively search for the remaining target.
+
+I use `i + 1` in the recursive call because each number can be used only once.
+
+To avoid duplicate combinations, I skip a candidate when:
+
+`i > start and candidates[i] == candidates[i - 1]`
+
+When the remaining target becomes `0`, the current combination is added to the result.
+
+## Complexity
+
+- Time Complexity: O(2^n) in the worst case.
+- Space Complexity: O(n) for the recursion stack and current combination.
+
+## Solution
+
+See `solution.py` for the complete Python implementation.
