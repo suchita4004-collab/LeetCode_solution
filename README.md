@@ -109,6 +109,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,12 +118,14 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +134,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,6 +144,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Stack
 |  |
 | ------- |
