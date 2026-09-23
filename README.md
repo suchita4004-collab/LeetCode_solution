@@ -107,12 +107,14 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,8 +126,17 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
