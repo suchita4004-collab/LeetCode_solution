@@ -139,4 +139,12 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
