@@ -162,6 +162,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,4 +182,8 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
