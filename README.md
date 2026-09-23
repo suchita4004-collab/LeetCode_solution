@@ -88,6 +88,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0119-pascals-triangle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
@@ -165,4 +166,9 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0119-pascals-triangle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
