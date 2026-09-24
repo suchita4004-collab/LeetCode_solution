@@ -121,6 +121,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Backtracking
 |  |
 | ------- |
