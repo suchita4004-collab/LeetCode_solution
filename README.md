@@ -95,6 +95,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -136,6 +137,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0115-distinct-subsequences](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,4 +197,5 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
