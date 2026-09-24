@@ -90,12 +90,14 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -198,4 +200,8 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | ------- |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
