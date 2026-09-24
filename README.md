@@ -94,6 +94,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0130-surrounded-regions](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0136-single-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
@@ -231,4 +232,8 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0133-clone-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
