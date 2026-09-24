@@ -99,6 +99,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,4 +264,8 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
