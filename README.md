@@ -104,6 +104,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -175,6 +176,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0138-copy-list-with-random-pointer) |
 ## Stack
 |  |
 | ------- |
