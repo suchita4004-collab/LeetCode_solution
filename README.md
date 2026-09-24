@@ -97,6 +97,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0136-single-number](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0133-clone-graph](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0113-path-sum-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -193,6 +196,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0131-palindrome-partitioning](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +211,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0131-palindrome-partitioning](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -248,10 +253,12 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
