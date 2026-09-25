@@ -112,6 +112,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0146-lru-cache) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
@@ -197,6 +198,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -303,4 +305,12 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
