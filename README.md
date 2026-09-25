@@ -99,6 +99,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -210,6 +211,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
@@ -297,6 +299,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
