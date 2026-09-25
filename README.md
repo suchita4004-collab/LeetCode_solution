@@ -200,6 +200,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -252,6 +253,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0148-sort-list) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -297,6 +299,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -315,4 +318,12 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
