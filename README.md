@@ -110,6 +110,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0138-copy-list-with-random-pointer](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0127-word-ladder](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +190,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
@@ -198,6 +202,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0132-palindrome-partitioning-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,4 +273,8 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
