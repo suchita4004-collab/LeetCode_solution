@@ -137,6 +137,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0129-sum-root-to-leaf-numbers](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +199,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
