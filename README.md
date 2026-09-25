@@ -190,10 +190,12 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0138-copy-list-with-random-pointer](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
@@ -238,6 +240,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0125-valid-palindrome](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -288,4 +291,8 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
