@@ -111,6 +111,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
@@ -188,6 +189,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | ------- |
 | [0125-valid-palindrome](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -284,4 +287,5 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
