@@ -101,6 +101,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0149-max-points-on-a-line](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0149-max-points-on-a-line](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0149-max-points-on-a-line) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
