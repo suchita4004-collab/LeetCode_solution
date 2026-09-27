@@ -215,6 +215,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0145-binary-tree-postorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -349,4 +351,8 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0149-max-points-on-a-line) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
