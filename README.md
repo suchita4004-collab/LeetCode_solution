@@ -102,6 +102,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0150-evaluate-reverse-polish-notation](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0132-palindrome-partitioning-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
 | ------- |
@@ -281,6 +283,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0130-surrounded-regions) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Graph Theory
 |  |
 | ------- |
@@ -358,4 +361,5 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
