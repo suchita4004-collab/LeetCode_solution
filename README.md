@@ -216,6 +216,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0145-binary-tree-postorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String
@@ -231,6 +232,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 | [0140-word-break-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -359,6 +361,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
