@@ -210,6 +210,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -222,6 +223,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0126-word-ladder-ii) |
@@ -361,6 +363,7 @@ I will continue adding new problems and solutions as I progress through LeetCode
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suchita4004-collab/LeetCode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
